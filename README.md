@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-i've been learning Vuejs for 3 year
+🔧 Vuejs Developer ♥️
 
-* 🌍  I'm based in Chiangmai,Thailand
+* 🌍 Chiangmai,Thailand
 
 <a href="https://www.github.com/tonyamano24" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tonyamano24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
