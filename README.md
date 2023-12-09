@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-🔧 Vuejs Developer ♥️
+🔧 I'm Front-end Developer, Vuejs Developer ♥️
 
 * 🌍 Chiangmai,Thailand
 
